@@ -4,4 +4,5 @@ Self-taught in the new technologies of the market, leaving a little behind the o
 My strengths are the programming in the Python with Javascript languages. Complementing my programming work with mathematics and the modeling of UML diagrams.
 
 ## Find me around the web 🌎:
-- Linkedin in public on <a href="https:/https://www.linkedin.com/in/diego-esteban-cort%C3%A9s-escand%C3%B3n-b3aab5124/">Linkedin</a>
+- Linkedin in public on <a href="https://www.linkedin.com/in/diego-esteban-cort%C3%A9s-escand%C3%B3n-b3aab5124/">profile</a>
+- Hackerrank in public on <a href="https://www.hackerrank.com/dcortes_net">profile</a>
