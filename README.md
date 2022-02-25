@@ -1,8 +1,17 @@
-# Hi, I'm Diego 👋💻
+# Hola, Soy Diego! 👋💻
 
-Self-taught in the new technologies of the market, leaving a little behind the old school of traditional methodologies, I look for feedback day by day and I consider myself a structured person.
-My strengths are the programming in the Python with Javascript languages. Complementing my programming work with mathematics and the modeling of UML diagrams.
+Analista de sistemas enfocado en la programación y modelado de procesos.
+Experiencia en análisis de requerimientos, estimaciones y gestión.
+He participado principalmente en rubros bancarios, salud y educación, tomando diferentes roles según la necesidad y complejidad del proyecto. 
 
-## Find me around the web 🌎:
-- Linkedin in public on <a href="https://www.linkedin.com/in/diego-esteban-cort%C3%A9s-escand%C3%B3n-b3aab5124/">profile</a>
-- Hackerrank in public on <a href="https://www.hackerrank.com/dcortes_net">profile</a>
+Stack tecnológico
+- Programación: Python | Javascript. 
+- Fontend: HTML5 | CSS3 | React | Angular | Redux.
+- Backend: NodeJs | Express | Django.
+- Base de datos: Postgresql | Mongo DB | Redis | Mysql
+- Cloud: AWS | MS Azure
+- Otros: CI/CD | Docker | Scrum | BPMN | TDD
+
+## linkedin 🌎:
+- Perfil público <a href="https://www.linkedin.com/in/diego-esteban-cort%C3%A9s-escand%C3%B3n-b3aab5124/">Perfil</a>
+
