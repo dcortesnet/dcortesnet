@@ -12,6 +12,8 @@ Stack tecnológico
 - Cloud: AWS | MS Azure
 - Otros: CI/CD | Docker | Scrum | BPMN | TDD
 
-## linkedin 🌎:
-- Perfil público <a href="https://www.linkedin.com/in/diego-esteban-cort%C3%A9s-escand%C3%B3n-b3aab5124/">Perfil</a>
+## Perfil público 🌎:
+- Perfil linkedin <a href="https://www.linkedin.com/in/diego-esteban-cort%C3%A9s-escand%C3%B3n-b3aab5124/">Perfil</a>
+- Blog Medium <a href="https://medium.com/@dcortes.net">Blog</a>
+
 
