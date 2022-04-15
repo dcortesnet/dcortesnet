@@ -2,7 +2,7 @@
 
 Analista de sistemas enfocado en la programación y modelado de procesos.
 Experiencia en análisis de requerimientos, estimaciones y gestión.
-He participado principalmente en rubros bancarios, salud y educación, tomando diferentes roles según la necesidad y complejidad del proyecto. 
+He participado principalmente en rubros bancarios y salud, tomando diferentes roles según la necesidad y complejidad del proyecto. 
 
 Stack tecnológico
 - Programación: Python | Javascript. 
