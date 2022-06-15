@@ -13,7 +13,8 @@ Stack tecnológico
 - Otros: CI/CD | Docker | Scrum | BPMN | TDD
 
 ## Perfil público 🌎:
-- Perfil linkedin <a href="https://www.linkedin.com/in/diego-esteban-cort%C3%A9s-escand%C3%B3n-b3aab5124/">Perfil</a>
+- Perfil linkedin <a href="https://www.linkedin.com/in/dcortesnet">Perfil</a>
 - Blog Medium <a href="https://medium.com/@dcortes.net">Blog</a>
+- Hacker Rank <a href="https://www.hackerrank.com/dcortes_net">Rank</a>
 
 
