@@ -5,7 +5,7 @@ Experience in analysis of requirements, estimations, and management. I have part
 
 ## Public Profile 🌎
 - <a href="https://www.linkedin.com/in/dcortesnet">LinkedIn</a>
-- <a href="https://medium.com/@dcortes.net">Blog Medium</a>
+- <a href="https://medium.com/@diego.coder">Blog Medium</a>
 - <a href="https://www.hackerrank.com/dcortes_net">Hacker Rank</a>
 - <a href="https://twitter.com/dcortes_net">Twitter</a>
 
