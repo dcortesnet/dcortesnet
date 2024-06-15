@@ -7,6 +7,5 @@ Experience in requirements analysis, estimates, and management. I have participa
 - <a href="https://www.linkedin.com/in/dcortesnet">LinkedIn</a>
 - <a href="https://medium.com/@diego.coder">Blog Medium</a>
 - <a href="https://linktr.ee/diego.coder">Linktree</a>
-- <a href="https://www.hackerrank.com/profile/dcortes_net">Hacker rank</a>
 </a>
 
